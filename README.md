@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+> make links, not war
+
+> links are love
+
+> ☮
+
 <!--
-**flakeed/flakeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Konard/Konard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
