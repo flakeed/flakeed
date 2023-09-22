@@ -1,6 +1,6 @@
 ### Hello, I'm Flakeed! 👋
 
-I'm a passionate software developer based in [Your Location](Odesa). I love coding and creating innovative solutions to real-world problems. Here's a bit about me:
+I'm a passionate software developer based in Odesa. I love coding and creating innovative solutions to real-world problems. Here's a bit about me:
 
 <!-- - 🔭 I'm currently working on [Project 1](Link to Project 1) - A detailed description of the project.-->
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date.
@@ -9,7 +9,7 @@ I'm a passionate software developer based in [Your Location](Odesa). I love codi
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?flakeed=flakeed&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flakeed&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flakeed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
