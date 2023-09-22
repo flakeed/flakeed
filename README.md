@@ -11,7 +11,7 @@ I'm a passionate software developer based in Odesa. I love coding and creating i
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flakeed&show_icons=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flakeed&layout=default&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flakeed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills and Technologies
 
